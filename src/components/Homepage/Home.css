@@ -1,0 +1,7 @@
+.align{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    top: 7.1rem;
+    z-index: -1;
+}

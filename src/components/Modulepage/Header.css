@@ -1,0 +1,9 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.sides{
+    display: flex;
+    gap: 2.5rem;
+}

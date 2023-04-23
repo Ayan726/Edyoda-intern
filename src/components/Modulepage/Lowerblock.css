@@ -1,0 +1,16 @@
+
+.lowerblock{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(233, 233, 233);
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+    padding: 2rem;
+}

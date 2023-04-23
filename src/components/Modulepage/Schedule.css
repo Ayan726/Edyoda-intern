@@ -1,0 +1,8 @@
+.schedule img{
+    height: 1rem;
+}
+.row{
+    display: flex;
+    align-items: center;    
+    gap: 1rem;
+}

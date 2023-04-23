@@ -1,0 +1,13 @@
+.ins{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(212,212,212);
+}
+
+.align{
+    display: flex;
+    position: absolute;
+    top: 7.1rem;
+    width: 100%;
+    z-index: -1;
+}
